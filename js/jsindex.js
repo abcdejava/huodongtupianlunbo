@@ -89,17 +89,7 @@
 			}
 		}
 		
-		/*var number = 1
-		function fun(){
-			number ++;
-			if (number > 3) {
-				number = 1;
-			}
-			
-			var img = document.getElementsByClassName("imgItem")
-			imgItem.Style("img/"+number+".jpg")
-		}
-		setInterval(fun(),1000);    ????  自动切换问题*/
+		
 	}
 })()
 
